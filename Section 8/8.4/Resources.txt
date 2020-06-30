@@ -1,0 +1,1 @@
+How to integrate telemetry data with other services? - https://docs.microsoft.com/en-us/azure/azure-monitor/overview#integrate-and-export-data

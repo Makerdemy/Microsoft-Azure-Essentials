@@ -1,0 +1,91 @@
+extends layout
+block content
+    h1 #{title}
+    br
+
+    h2 GET
+    br
+    form(action="/get", method="get")
+      table.table.table-striped.table-bordered
+        tr
+          td ID
+          td Type
+          td Name
+          td Description
+        if (typeof articles === "undefined")
+          tr
+            td
+        else
+          each article in articles
+            tr
+              td #{article.id}
+              td #{article.type}
+              td #{article.name}
+              td #{article.description}     
+      button.btn.btn-primary(type="submit") GET
+    hr
+    
+    h2 GET BY NAME
+    br
+    form(action="/getname", method="get")
+      input(type="text", placeholder="Article name", name="name")
+      br
+      table.table.table-striped.table-bordered
+        tr
+          td ID
+          td Type
+          td Name
+          td Description
+        if (typeof articles1 === "undefined")
+          tr
+            td
+        else
+          each article in articles1
+            tr
+              td #{article.id}
+              td #{article.type}
+              td #{article.name}
+              td #{article.description}
+      button.btn.btn-primary(type="submit") GET BY NAME
+    hr
+
+    h2 POST
+    br
+    form.well(action="/post", method="post")
+      label ID: 
+      input(name="id", type="textbox")
+      label Type: 
+      input(name="type", type="textbox")
+      label Name: 
+      input(name="name", type="textbox")
+      label Description: 
+      input(name="description", type="textbox")
+      br
+      button.btn(type="submit") POST
+    hr
+
+    h2 PUT
+    br
+    form.well(action="/put", method="get")
+      label ID: 
+      input(name="id", type="textbox")
+      label Type: 
+      input(name="type", type="textbox")
+      label Name: 
+      input(name="name", type="textbox")
+      label Description: 
+      input(name="description", type="textbox")
+      br
+      button.btn(type="submit") PUT
+    hr
+
+    h2 DELETE
+    br
+    form.well(action="/delete", method="get")
+      label ID: 
+      input(name="id", type="textbox")  
+      label Type: 
+      input(name="type", type="textbox") 
+      br
+      button.btn(type="submit") DELETE
+    hr

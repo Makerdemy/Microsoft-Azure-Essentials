@@ -1,0 +1,3 @@
+1] Download kubectl - https://kubernetes.io/docs/tasks/tools/install-kubectl/
+2] kubectl reference documentation - https://kubernetes.io/docs/reference/generated/kubectl/kubectl-commands
+3] Learn YAML syntax - https://sakaldeep.com.np/1177/how-to-write-yaml-file-for-azure-kubernetes-service-aks, https://dev.to/azure/how-you-actually-use-kubernetes-starring-yaml-files-3c0k

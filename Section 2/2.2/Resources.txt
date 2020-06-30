@@ -1,0 +1,2 @@
+VM Images - https://azure.microsoft.com/en-in/blog/vm-image-blog-post/, https://docs.microsoft.com/en-us/azure/virtual-machines/windows/shared-image-galleries, https://docs.microsoft.com/en-in/azure/virtual-machines/linux/imaging
+VM sizes - https://docs.microsoft.com/en-us/azure/virtual-machines/linux/sizes

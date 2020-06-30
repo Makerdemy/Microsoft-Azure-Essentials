@@ -1,0 +1,27 @@
+{
+    "id": "1",
+    "type": "Diffuse nebula",
+    "name": "Carina nebula",
+    "description": "The Carina Nebula is a large, complex area of bright and dark nebulosity in the constellation Carina, and is located in the Carina–Sagittarius Arm. The nebula is approximately 8,500 light-years from Earth."
+}
+
+{
+    "id": "2",
+    "type": "Planetary nebula",
+    "name": "Oyster nebula",
+    "description": "Also called NGC 1501 is a complex planetary nebula located in the constellation of Camelopardalis, discovered in 1787 by William Herschel."
+}
+
+{
+    "id": "3",
+    "type": "Supernova remnants",
+    "name": "Crab nebula",
+    "description": "The Crab Nebula is a supernova remnant in the constellation of Taurus. The common name comes from William Parsons, 3rd Earl of Rosse, who observed the object in 1840 using a 36-inch telescope and produced a drawing that looked somewhat like a crab."
+}
+
+{
+    "id": "4",
+    "type": "Protoplanetary nebula",
+    "name": "Red Rectangle nebula",
+    "description": "The Red Rectangle Nebula, so called because of its red color and unique rectangular shape, is a protoplanetary nebula in the Monoceros constellation. Also known as HD 44179, the nebula was discovered in 1973 during a rocket flight associated with the AFCRL Infrared Sky Survey called Hi Star."
+}

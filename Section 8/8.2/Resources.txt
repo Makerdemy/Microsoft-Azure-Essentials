@@ -1,0 +1,1 @@
+KQL query language - https://docs.microsoft.com/en-us/azure/data-explorer/kql-quick-reference, https://squaredup.com/blog/kusto-101-a-jumpstart-guide-to-kql/

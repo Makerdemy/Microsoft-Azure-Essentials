@@ -1,0 +1,3 @@
+1] Consistency levels - https://docs.google.com/document/d/1i9MnC1seTz6hJWubK1xUSjz_LTUJB5h8IFW35Gh9o7E/edit?usp=sharing
+2] Container partitioning and scaling - https://docs.google.com/document/d/1fIcbW_Oy4kVrArAViXHgau8JChHTA6G4IMgEl9c6LOI/edit?usp=sharing
+3] Other Cosmos DB APIs - https://docs.microsoft.com/en-us/learn/modules/choose-api-for-cosmos-db/, https://docs.microsoft.com/en-us/azure/cosmos-db/cassandra-introduction, https://docs.microsoft.com/en-us/azure/cosmos-db/mongodb-introduction, https://docs.microsoft.com/en-us/azure/cosmos-db/graph-introduction, https://docs.microsoft.com/en-us/azure/cosmos-db/table-introduction, https://docs.microsoft.com/en-us/azure/cosmos-db/etcd-api-introduction

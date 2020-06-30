@@ -1,0 +1,2 @@
+1] Durable and Orchestrator functions - https://docs.microsoft.com/en-us/azure/azure-functions/durable/
+2] Different plans in Azure function app - https://docs.microsoft.com/en-us/azure/azure-functions/functions-scale

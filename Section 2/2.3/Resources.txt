@@ -1,0 +1,1 @@
+Regions which don't have all VM sizes - https://azure.microsoft.com/en-us/global-infrastructure/services/?products=virtual-machines

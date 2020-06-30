@@ -1,0 +1,1 @@
+Azure Service Bus pricing - https://azure.microsoft.com/en-in/pricing/details/service-bus/

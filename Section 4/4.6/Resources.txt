@@ -1,0 +1,3 @@
+1] Other record types - https://docs.google.com/document/d/1ri-0Wb6ygdyntHGlayTJ8xUatRblE6f90mnW-NcY3Lg/edit?usp=sharing
+2] How to change name servers for your domain address? - https://docs.google.com/document/d/1CG0-7YL7PARpS9ilRXnyynajGhvRcd4iOdJbcJ4un9g/edit?usp=sharing
+3] How to create a private DNS zone and test it with a domain name? - https://docs.google.com/document/d/10f9u8oTgmURxPwoiKVwCPz0uBGx2JB6f04ybomms85o/edit?usp=sharing

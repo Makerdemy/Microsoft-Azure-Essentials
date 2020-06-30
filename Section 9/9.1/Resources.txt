@@ -1,0 +1,1 @@
+Basics of API - https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Client-side_web_APIs/Introduction#:~:text=Application%20Programming%20Interfaces%20(APIs)%20are,to%20use%20in%20its%20place., https://www.freecodecamp.org/news/apis-for-beginners-full-course/

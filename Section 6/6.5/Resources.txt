@@ -1,0 +1,1 @@
+Power BI embedded - https://docs.microsoft.com/en-us/power-bi/developer/embedded/azure-pbie-what-is-power-bi-embedded

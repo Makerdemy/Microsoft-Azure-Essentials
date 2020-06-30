@@ -1,0 +1,4 @@
+{
+    "fileUris": ["https://raw.githubusercontent.com/Lakshana3/azure-api/master/apprun.sh"],
+    "commandToExecute": "./apprun.sh"
+}
